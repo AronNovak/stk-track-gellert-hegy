@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<materials>
+  <material name="gh_grass.png" max-speed="0.7" slowdown-time="1.0"/>
+  <material name="gh_litter.png" max-speed="0.6" slowdown-time="1.0"/>
+  <material name="gh_hillside.png" max-speed="0.6" slowdown-time="1.0"/>
+  <material name="gh_foliage.png" shader="alphatest" backface-culling="n" ignore="Y"/>
+  <material name="gh_foliage_dark.png" shader="alphatest" backface-culling="n" ignore="Y"/>
+  <material name="gh_foliage_autumn.png" shader="alphatest" backface-culling="n" ignore="Y"/>
+  <material name="gh_chainlink.png" shader="alphatest" backface-culling="n"/>
+  <material name="gh_railing.png" shader="alphatest" backface-culling="n"/>
+  <material name="gh_balustrade.png" shader="alphatest" backface-culling="n"/>
+  <material name="gh_lattice.png" shader="alphatest" backface-culling="n"/>
+  <material name="gh_balna.png"/>
+  <material name="gh_rock.png" max-speed="0.6" slowdown-time="1.0"/>
+  <material name="gh_tram_grass.png" max-speed="0.8" slowdown-time="1.0"/>
+  <material name="gh_letters_gellert.png" shader="alphatest" backface-culling="n"/>
+  <material name="gh_checker.png" ignore="Y"/>
+  <material name="gh_banner.png" ignore="Y"/>
+  <material name="gh_flag_hu.png" ignore="Y"/>
+  <material name="gh_wares.png" backface-culling="n"/>
+  <material name="gh_water.png" max-speed="0.3"/>
+  <material name="gh_lantern.png" shader="unlit"/>
+  <material name="gh_boost.png">
+    <zipper duration="2.5" max-speed-increase="10.0" fade-out-time="2.0" speed-gain="8.0" min-speed="-1.0"/>
+  </material>
+</materials>
