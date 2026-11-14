@@ -20,6 +20,7 @@
   <material name="gh_wares.png" backface-culling="n"/>
   <material name="gh_water.png" max-speed="0.3"/>
   <material name="gh_lantern.png" shader="unlit"/>
+  <material name="gh_planks.png" backface-culling="n"/>
   <material name="gh_boost.png">
     <zipper duration="2.5" max-speed-increase="10.0" fade-out-time="2.0" speed-gain="8.0" min-speed="-1.0"/>
   </material>

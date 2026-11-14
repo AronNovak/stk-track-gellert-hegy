@@ -1,6 +1,6 @@
 # Gellért-hegy - Citadella
 
-A [SuperTuxKart](https://supertuxkart.net) add-on track on Gellért Hill in Budapest. The lap starts on Szent Gellért tér in front of the Hotel Gellért, climbs Verejték utca and the stairs up to Citadella sétány, goes round the Citadella past the Liberty Statue, and comes back down Szabó Dezső sétány and Verejték utca to the hotel.
+A [SuperTuxKart](https://supertuxkart.net) add-on track on Gellért Hill in Budapest. The lap starts on Szent Gellért tér in front of the Hotel Gellért, climbs Verejték utca and the stairs up to Citadella sétány, goes round the Citadella past the Liberty Statue, and comes back down Szabó Dezső sétány and Verejték utca to the hotel. On the way down a shortcut turns off to the right through the tube slide of the hillside playground.
 
 ![Screenshot](sshot-gellerthegy.jpg)
 
